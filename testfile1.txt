@@ -1,3 +1,2 @@
 data ingestion file
-<<<<<<< HEAD
-i am th master guy
+i am not the master guy
